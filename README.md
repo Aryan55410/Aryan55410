@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Aryan Patel
 
-<!--
-**Aryan55410/Aryan55410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+🏫 LDRP-ITR, Gandhinagar  
+💻 Python Developer | Machine Learning & Web Development Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about building ML models and web applications  
+- Strong foundation in Python programming  
+- Currently exploring real-world Machine Learning projects  
+
+---
+
+## 🛠 Skills
+- **Programming:** Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Machine Learning:** Basics, Model Training  
+- **Tools:** Git, GitHub  
+
+---
+
+## 📌 Projects
+- 🤖 AI Chatbot Website  
+- 📊 Machine Learning Mini Projects  
+- 🌐 Web Development Practice Projects  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: paryan9094@gmail.com  
+- 💻 GitHub: https://github.com/aryan55410  
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
+
+
